@@ -23,9 +23,10 @@ This portfolio aims to showcase my progress and the competencies acquired throug
 ## Technologies in this Portfolio
 
 My projects span a range of technologies, including:
-- Languages: Python, Java, C++, JavaScript, C#, ReactNative, Assembler, R
+- Languages: Python, Java, C++, JavaScript, C#, React Native, Assembly, R
 - Frameworks: Vue.js, Laravel
 - Game Engine and 3D Graphics Software: Unity, Blender
+- Hardware and Simulation: Arduino, Proteus
 
 ## Collaborations
 
