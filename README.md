@@ -34,7 +34,7 @@ I am grateful to my peers and mentors who have contributed to my learning and pr
 
 ## Contact
 
-For more information or if you're interested in collaborating, feel free to contact me: [your-email](mailto:your-email) | [LinkedIn](your-linkedin-link)
+For more information or if you're interested in collaborating, feel free to contact me: [your-email](mailto:oscarsimental12@gmail.com)
 
 ## License
 
