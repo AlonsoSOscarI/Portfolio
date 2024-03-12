@@ -34,5 +34,5 @@ Special thanks to my colleague with whom I closely worked on this project from c
 - Full Stack Web Development
 
 ## Outputs
-1. Starting for database, well planned and created to manage, relate and visualize all the system information properly and optimized. [Database Diagram](./Vue-Laravel-WaterServicesProject/Outputs-VueLaravel).
+1. Starting for database, well planned and created to manage, relate and visualize all the system information properly and optimized. ![Database Diagram](Vue-Laravel-WaterServicesProject/Outputs-VueLaravel/1.%20Database%20Diagram.jpeg)
 2. Starting for the login, using rough security with the Sanctum library to verify session through tokens
