@@ -35,4 +35,4 @@ Special thanks to my colleague with whom I closely worked on this project from c
 
 ## Outputs
 1. Starting for database, well planned and created to manage, relate and visualize all the system information properly and optimized. ![Database Diagram](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Vue-Laravel-WaterServicesProject/Outputs-VueLaravel/1.%20Database%20Diagram.jpeg)
-2. Starting for the login, using rough security with the Sanctum library to verify session through tokens
+2. The login, using rough security with the Sanctum library to verify session through tokens. ![Database Diagram](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Vue-Laravel-WaterServicesProject/Outputs-VueLaravel/2.%20Login.png)
