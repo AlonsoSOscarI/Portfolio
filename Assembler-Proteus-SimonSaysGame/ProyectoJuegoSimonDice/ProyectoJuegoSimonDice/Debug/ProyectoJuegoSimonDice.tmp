@@ -1,0 +1,122 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\Debug\ProyectoJuegoSimonDice.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ProyectoJuegoSimonDice.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ProyectoJuegoSimonDice.map</FILE>
+  <FILE>ProyectoJuegoSimonDice.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Inicio><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>31</LINE></Inicio>
+  <Random><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>590</LINE></Random>
+  <ledInicio><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>40</LINE></ledInicio>
+  <Presentacion><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>515</LINE></Presentacion>
+  <Lvl1><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>46</LINE></Lvl1>
+  <generadorSecuencia1><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>237</LINE></generadorSecuencia1>
+  <boton><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>160</LINE></boton>
+  <Fallo1><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>56</LINE></Fallo1>
+  <cI><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>575</LINE></cI>
+  <Lvl2><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>59</LINE></Lvl2>
+  <Fallo2><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>73</LINE></Fallo2>
+  <Sl1><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>378</LINE></Sl1>
+  <generadorSecuencia2><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>265</LINE></generadorSecuencia2>
+  <Lvl3><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>76</LINE></Lvl3>
+  <Fallo><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>140</LINE></Fallo>
+  <Sl2><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>400</LINE></Sl2>
+  <generadorSecuencia3><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>293</LINE></generadorSecuencia3>
+  <Lvl4><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>93</LINE></Lvl4>
+  <Sl3><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>422</LINE></Sl3>
+  <generadorSecuencia4><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>321</LINE></generadorSecuencia4>
+  <Lvl5><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>114</LINE></Lvl5>
+  <Sl4><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>444</LINE></Sl4>
+  <generadorSecuencia5><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>349</LINE></generadorSecuencia5>
+  <Gano><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>149</LINE></Gano>
+  <delay250><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>502</LINE></delay250>
+  <cRe><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>582</LINE></cRe>
+  <vPB0><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>162</LINE></vPB0>
+  <btnVerde><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>167</LINE></btnVerde>
+  <btnAmarillo><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>172</LINE></btnAmarillo>
+  <Verde><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>202</LINE></Verde>
+  <vPB1><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>180</LINE></vPB1>
+  <Amarillo><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>209</LINE></Amarillo>
+  <btnAzul><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>185</LINE></btnAzul>
+  <btnRojo><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>190</LINE></btnRojo>
+  <Azul><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>216</LINE></Azul>
+  <btnReset><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>195</LINE></btnReset>
+  <Rojo><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>223</LINE></Rojo>
+  <ledReset><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>230</LINE></ledReset>
+  <cV><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>547</LINE></cV>
+  <cA><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>554</LINE></cA>
+  <cAz><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>561</LINE></cAz>
+  <cR><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>568</LINE></cR>
+  <colorRandom><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>238</LINE></colorRandom>
+  <RVerde><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>249</LINE></RVerde>
+  <RAma><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>253</LINE></RAma>
+  <RAzul><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>257</LINE></RAzul>
+  <RRojo><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>261</LINE></RRojo>
+  <colorRandom2><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>266</LINE></colorRandom2>
+  <RVerde2><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>277</LINE></RVerde2>
+  <RAma2><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>281</LINE></RAma2>
+  <RAzul2><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>285</LINE></RAzul2>
+  <RRojo2><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>289</LINE></RRojo2>
+  <colorRandom3><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>294</LINE></colorRandom3>
+  <RVerde3><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>305</LINE></RVerde3>
+  <RAma3><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>309</LINE></RAma3>
+  <RAzul3><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>313</LINE></RAzul3>
+  <RRojo3><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>317</LINE></RRojo3>
+  <colorRandom4><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>322</LINE></colorRandom4>
+  <RVerde4><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>333</LINE></RVerde4>
+  <RAma4><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>337</LINE></RAma4>
+  <RAzul4><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>341</LINE></RAzul4>
+  <RRojo4><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>345</LINE></RRojo4>
+  <colorRandom5><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>350</LINE></colorRandom5>
+  <RVerde5><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>361</LINE></RVerde5>
+  <RAma5><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>365</LINE></RAma5>
+  <RAzul5><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>369</LINE></RAzul5>
+  <RRojo5><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>373</LINE></RRojo5>
+  <v><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>388</LINE></v>
+  <a><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>391</LINE></a>
+  <az><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>394</LINE></az>
+  <rr><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>397</LINE></rr>
+  <v2><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>410</LINE></v2>
+  <a2><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>413</LINE></a2>
+  <az2><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>416</LINE></az2>
+  <rr2><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>419</LINE></rr2>
+  <v3><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>432</LINE></v3>
+  <a3><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>435</LINE></a3>
+  <az3><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>438</LINE></az3>
+  <rr3><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>441</LINE></rr3>
+  <v4><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>454</LINE></v4>
+  <a4><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>457</LINE></a4>
+  <az4><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>460</LINE></az4>
+  <rr4><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>463</LINE></rr4>
+  <Sl5><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>466</LINE></Sl5>
+  <v5><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>476</LINE></v5>
+  <a5><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>479</LINE></a5>
+  <az5><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>482</LINE></az5>
+  <rr5><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>485</LINE></rr5>
+  <delay500><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>489</LINE></delay500>
+  <eti1><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>491</LINE></eti1>
+  <eti2><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>492</LINE></eti2>
+  <eti3><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>493</LINE></eti3>
+  <eti11><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>504</LINE></eti11>
+  <eti22><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>505</LINE></eti22>
+  <eti33><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>506</LINE></eti33>
+  <reset><FILE>C:\Users\oscar\Documents\Atmel Studio\7.0\ProyectoJuegoSimonDice\ProyectoJuegoSimonDice\main.asm</FILE><LINE>595</LINE></reset>
+ </LABELS>
+</ASSEMBLER_INFO>
