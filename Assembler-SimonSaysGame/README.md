@@ -28,6 +28,18 @@ Special thanks to collaborators and mentors who provided guidance and support th
 
 ## Outputs
 
+Below are key outputs and screenshots demonstrating the functionality and features of the Simon Says game project.
+
+1. **Circuit Schematic**: This schematic outlines the project's design, including the ATmega328P microcontroller, the display, buttons, and LEDs. All components are interconnected using air connections in Proteus, hence the absence of visible wires. ![Circuit Schematic](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Assembler-SimonSaysGame/Outputs-Assembler/1.%20Circuit%20Schematic.JPG)
+   
+2. **Circuit Turned On**: Here, the circuit is powered on within Proteus, showing the initial animation. Capturing the turn-on animation is challenging due to its transient nature. ![Circuit Turned On](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Assembler-SimonSaysGame/Outputs-Assembler/2.%20Circuit%20Turned%20on.JPG)
+   
+3. **Game Started, First Level**: The display indicates Level 1, and the blue LED flashes as part of the pseudo-random sequence generation, marking the beginning of the game. ![Game Started, First Level](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Assembler-SimonSaysGame/Outputs-Assembler/3.%20Game%20Started%2C%20First%20Level.JPG)
+   
+4. **Lost Game**: This image captures the moment when the player loses the game by pressing an incorrect button. The reset LED flashes red, and the reset function is triggered. ![Lost Game](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Assembler-SimonSaysGame/Outputs-Assembler/4.%20Lost%20game.JPG)
+   
+5. **Fifth Level, Game Won**: The player successfully completes the sequence, illustrated by the start LED flashing green. Subsequently, the reset function is executed, preparing the game for a new round. ![Fifth Level, Game Won](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Assembler-SimonSaysGame/Outputs-Assembler/5.%20Fifth%20Level%2C%20Game%20won.JPG)
+
 
 ## License
 [MIT](./LICENSE)
