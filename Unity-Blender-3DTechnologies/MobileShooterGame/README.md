@@ -20,9 +20,21 @@
 
 ## Acknowledgments
 This prototype is a culmination of learning and experimentation in game development, reflecting an initial step into combining historical interests with interactive media.
+![Main Menu]()
 
 ## Outputs
-1. 
+1. **App Icon**: Crafted in Blender, utilizing in-game models to maintain visual consistency. ![App Icon](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Unity-Blender-3DTechnologies/MobileShooterGame/Gameplay/1.%20App%20Icon.jpeg)
+2. **Main Menu**: The gateway to the game's adventure. ![Main Menu](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Unity-Blender-3DTechnologies/MobileShooterGame/Gameplay/2.%20Main%20Menu.jpeg)
+3. **Options Menu**: Here, players can adjust volume settings to tailor their gaming experience. ![Options](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Unity-Blender-3DTechnologies/MobileShooterGame/Gameplay/3.%20Options.jpeg)
+4. **Loading Screen**: This screen appears upon selecting 'Play', setting the stage for the game to begin. ![Loading Screen](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Unity-Blender-3DTechnologies/MobileShooterGame/Gameplay/4.%20Loading%20Screen.jpeg)
+5. **Gameplay Introduction**: Showcases the user interface for reloading, jumping, aiming, and shooting upon game start. ![Gameplay Introduction](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Unity-Blender-3DTechnologies/MobileShooterGame/Gameplay/5.%20Game%20Started.jpeg)
+6. **Navigating the Beach**: Demonstrates the player's movement across the beach using intuitive mobile game controls, with an unobstructed view for an immersive experience. ![Navigating the Beach](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Unity-Blender-3DTechnologies/MobileShooterGame/Gameplay/6.%20Moving%20around%20the%20beach.jpeg)
+7. **Jumping Mechanics**: An overview of the player's ability to jump, adding a layer of interaction with the game world. ![Jumping Mechanics](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Unity-Blender-3DTechnologies/MobileShooterGame/Gameplay/7.%20Jumping.jpeg)
+8. **Shooting Mechanics**: Highlights the bullet impact effects, specifically on a bunker, demonstrating the game's attention to detail. ![Shooting Mechanics](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Unity-Blender-3DTechnologies/MobileShooterGame/Gameplay/8.%20Shooting.jpeg)
+9. **Beach Overview**: Captures the expansive beach setting, complete with historical beach obstacles, landing boats, and bunker formations reminiscent of WW2. ![Beach Overview](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Unity-Blender-3DTechnologies/MobileShooterGame/Gameplay/9.%20Beach%20View.jpeg)
+10. **Trench Exploration**: Venturing beyond the beach reveals greener landscapes seen from within a trench, adding variety to the game's environment. ![Trench Exploration](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Unity-Blender-3DTechnologies/MobileShooterGame/Gameplay/10.%20Trench%20view.jpeg)
+11. **Approaching the Mountain**: As the player moves deeper into the map, they encounter more complex bunker structures at the mountain's base. ![Approaching the Mountain](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Unity-Blender-3DTechnologies/MobileShooterGame/Gameplay/11.%20Double%20bunker.jpeg)
+12. **View from the Bunker**: Offering a perspective from one of the double bunkers, highlighting the game's landscape design and distance rendering. ![View from the Bunker](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Unity-Blender-3DTechnologies/MobileShooterGame/Gameplay/12.%20View%20from%20bunker.jpeg)
 
 ## License
 [MIT](./LICENSE)
