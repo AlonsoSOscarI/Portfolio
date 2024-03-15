@@ -11,7 +11,7 @@ This portfolio aims to showcase my progress and the competencies acquired throug
 - **Python AI Blackjack Project**: Analysis and development of game strategies. [Learn more](link-to-project)
 - **School Management System in Java**: An application for efficient management of small schools. [Learn more](link-to-project)
 - **Water Services Management with Vue and Laravel**: A web solution for municipal service management. [Learn more](https://github.com/AlonsoSOscarI/Portfolio/tree/main/Vue-Laravel-WaterServicesProject)
-- **Simon Says game with Assembler**: Interactive game created in assembler and deployed in proteus. [Learn more](link-to-project)
+- **Simon Says game with Assembler**: Interactive game created in assembler and deployed in proteus. [Learn more](https://github.com/AlonsoSOscarI/Portfolio/tree/main/Assembler-SimonSaysGame)
 - **Arduino Practice to implement sensors to a scale model of an office**: Security and modernity with embeded systems for an office. [Learn more](link-to-project)
 - **ReactNative module to Scan QR codes for in n out control of students**: Adding security to schools with a innovative system to registers ins and outs with QR technology. [Learn more](link-to-project)
 - **Uglya Language Analyzer in C++**: Development of a comprehensive lexer, parser, and semantic analyzer for the Uglya programming language, showcasing compiler design principles. [Learn more](link-to-project)
