@@ -1,6 +1,6 @@
 # My Development Portfolio
 
-Welcome to my GitHub portfolio, where I share the projects I've developed as a Systems Engineering student, showcasing my skills in Python, Java, and web development with Vue.js and Laravel among others.
+Welcome to my GitHub portfolio, where I share the projects I've developed as a Systems Engineering student, showcasing my skills in Python, Java, 3D Technologies, web development with Vue.js and Laravel among others.
 
 ## Objective
 
