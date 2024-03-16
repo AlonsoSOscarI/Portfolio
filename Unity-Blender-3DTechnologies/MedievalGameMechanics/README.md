@@ -2,6 +2,7 @@
 
 ## Overview
 This prototype is a fantasy-themed game inspired by the expansive worlds found in titles like Skyrim. Developed entirely in Unity and Blender, it showcases a range of functionalities set within a medieval environment. While the graphical fidelity and complexity are intentionally kept simple, all models, animations, and textures were created from scratch, emphasizing functionality over visual detail.
+You can download the project folder here: [Medieval Unity Project](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Unity-Blender-3DTechnologies/MedievalGameMechanics/MedievalMechanicProject.rar)
 
 ## Game Features
 - **Inventory System**: A core feature allowing players to manage collected items, equipping or storing them as needed for progression.
