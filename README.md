@@ -9,7 +9,7 @@ This portfolio aims to showcase my progress and the competencies acquired throug
 ## Projects
 
 - **Python AI Blackjack Project**: Analysis and development of game strategies. [Learn more](link-to-project)
-- **School Management System in Java**: An application for efficient management of small schools. [Learn more](link-to-project)
+- **School Management System in Java**: An application for efficient management of small schools. [Learn more](https://github.com/AlonsoSOscarI/Portfolio/tree/main/Java-SchoolManagementSystem)
 - **Water Services Management with Vue and Laravel**: A web solution for municipal service management. [Learn more](https://github.com/AlonsoSOscarI/Portfolio/tree/main/Vue-Laravel-WaterServicesProject)
 - **Simon Says game with Assembler**: Interactive game created in assembler and deployed in proteus. [Learn more](https://github.com/AlonsoSOscarI/Portfolio/tree/main/Assembler-SimonSaysGame)
 - **Unity & Blender Projects**: This section dives into my exploration of 3D game development in Unity3D. The project combines Unity's robust game engine capabilities with custom 3D models and animations crafted in Blender, illustrating my hands-on experience         with both game logic programming in C# and creative 3D design. [Learn more](https://github.com/AlonsoSOscarI/Portfolio/tree/main/Unity-Blender-3DTechnologies)
