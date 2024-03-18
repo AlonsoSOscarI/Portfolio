@@ -3,6 +3,8 @@
 ## Introduction
 This section highlights a series of R and RStudio practices focused on various data science techniques ranging from probabilistic distributions to regression analysis and predictive modeling. Some of these practices were conducted collaboratively. For an extended view of my work, please visit my [R Pubs profile](https://rpubs.com/OscarIvan).
 
+**Note**: The practices are documented in Spanish. For non-Spanish speakers, it is recommended to use your browser's translation feature to understand the content.
+
 ## Practices Overview
 
 ### 1. Poisson Distribution Analysis
