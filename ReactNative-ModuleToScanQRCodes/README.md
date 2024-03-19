@@ -50,4 +50,4 @@ An `axios` library is used for HTTP requests to interact with the Google Spreads
 This module represents a focused effort to leverage mobile and cloud technologies for improving the operational aspects of educational institutions, showcasing the potential for innovative solutions in everyday challenges.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
