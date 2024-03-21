@@ -21,7 +21,7 @@ The Unity and Blender projects within this portfolio encapsulate my journey and 
 - For a closer look at the game prototypes, please explore their respective folders within this section.
 - - Shooter Game [WW2: France Scenario](https://github.com/AlonsoSOscarI/Portfolio/tree/main/Unity-Blender-3DTechnologies/MobileShooterGame).
 - - Medieval Game Mechanics [Medieval Game](https://github.com/AlonsoSOscarI/Portfolio/tree/main/Unity-Blender-3DTechnologies/MedievalGameMechanics).
-- To view my 3D models and renders, check out the `Blender` folder, where I've included a selection of my work. [Blender Projects]().
+- To view my 3D models and renders, check out the `Blender` folder, where I've included a selection of my work. [Blender Projects](https://github.com/AlonsoSOscarI/Portfolio/tree/main/Unity-Blender-3DTechnologies/Blender).
 
 ## License
 The content and projects contained in this section are licensed under the [MIT License](../LICENSE).
