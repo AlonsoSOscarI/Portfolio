@@ -4,7 +4,7 @@
 ## Overview
 This repository contains a specialized module developed as part of a larger React Native application, aimed at enhancing security and management within educational settings. The primary function of this module is to facilitate the tracking of student drop-offs and pickups by parents or guardians through QR code scanning. Each QR code contains a unique student ID, which, when scanned, registers the entry or exit event along with the time and date in a Google Spreadsheet.
 
-**Note**: This module is a contribution to a broader project developed by a team. The version presented here is the portion I am authorized to share, focusing on the QR scanning functionality for student attendance tracking.
+**Note**: This module is a contribution to a broader project developed by a team. The version presented here is the portion I am authorized to share, focusing on the QR scanning functionality for student attendance tracking: [Project Folder](https://github.com/AlonsoSOscarI/Portfolio/tree/main/ReactNative-ModuleToScanQRCodes/safex_qr)
 
 ## Technical Implementation
 The module's logic includes:
