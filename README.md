@@ -15,7 +15,6 @@ This portfolio aims to showcase my progress and the competencies acquired throug
 - **Unity & Blender Projects**: This section dives into my exploration of 3D game development in Unity3D. The project combines Unity's robust game engine capabilities with custom 3D models and animations crafted in Blender, illustrating my hands-on experience         with both game logic programming in C# and creative 3D design. [Learn more](https://github.com/AlonsoSOscarI/Portfolio/tree/main/Unity-Blender-3DTechnologies)
 - **ReactNative module to Scan QR codes for in n out control of students**: Adding security to schools with a innovative system to registers ins and outs with QR technology. [Learn more](https://github.com/AlonsoSOscarI/Portfolio/tree/main/ReactNative-ModuleToScanQRCodes)
 - **Uglya Language Analyzer in C++**: Development of a comprehensive lexer, parser, and semantic analyzer for the Uglya programming language, showcasing compiler design principles. [Learn more](link-to-project)
-- **Manage memory algorithm with C#**: Popular algorithm to manage the memory of the system (task manager). [Learn more](link-to-project)
 - **Big Data Handling and Visualization with R**: Practices focused on the principles of Data Science, utilizing R and RStudio for big data manipulation and visualization. [Learn more](https://github.com/AlonsoSOscarI/Portfolio/tree/main/R-RStudio-DataAnalytics)
 
 ## Technologies in this Portfolio
