@@ -1,7 +1,7 @@
 # Water Services Management System
 
 ## Overview
-This project was developed to introduce an efficient management system for potable water and sewage services in small towns, particularly in the state of Durango, Mexico. The version 1.0 of the system was successfully completed as part of an internship program, aiming to modernize and enhance the efficiency of local water services.
+This project was developed to introduce an efficient management web system for potable water and sewage services in small towns, particularly in the state of Durango, Mexico. The version 1.0 of the system was successfully completed as part of an internship program, aiming to modernize and enhance the efficiency of local water services.
 
 ## Objectives
 - To provide a modern and efficient management system for water services in areas lacking such infrastructure.
