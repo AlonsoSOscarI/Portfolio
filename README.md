@@ -23,7 +23,7 @@ My projects span a range of technologies, including:
 - Languages: Python, Java, C++, JavaScript, C#, React Native, Assembly, R
 - Frameworks: Vue.js, Laravel
 - Game Engine and 3D Graphics Software: Unity, Blender
-- Hardware and Simulation: Arduino, Proteus
+- Hardware and Simulation: Proteus
 
 ## Collaborations
 
