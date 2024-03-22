@@ -13,5 +13,6 @@ This Python-based solver tackles the classic 8 puzzle game employing artificial 
 - - ![Movement Counter](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Python-8puzzleSolver/Python-Output/2.%20Movement%20Counter.JPG)
 
 ### Usage
-Define the initial puzzle state in a 3x3 matrix within the Python script, using an underscore (_) to represent the blank tile. The script outputs each action taken to solve the puzzle and concludes with the solved state and move count. ![Initial State](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Python-8puzzleSolver/Python-Output/1.%20Initial%20State.JPG)
+Define the initial puzzle state in a 3x3 matrix within the Python script, using an underscore (_) to represent the blank tile. The script outputs each action taken to solve the puzzle and concludes with the solved state and move count. 
+- - ![Initial State](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Python-8puzzleSolver/Python-Output/1.%20Initial%20State.JPG)
 
