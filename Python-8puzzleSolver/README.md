@@ -9,7 +9,8 @@ This Python-based solver tackles the classic 8 puzzle game employing artificial 
 - **Node-Based Exploration**: The search space is explored through nodes representing potential moves, with a focus on moves that lead closer to the goal state based on heuristic values.
 - **Console Visualization**: Each state transition is visualized in the console, showing how tiles are repositioned and tracking the blank space's movements. ![Console Visualization](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Python-8puzzleSolver/Python-Output/3.%20Console%20Visualization.JPG)
 - **Solvability Check**: The solver assesses if the initial state can lead to a solution, advising termination of the execution if the puzzle is deemed unsolvable.
-- **Movement Counter**: Upon solving the puzzle, the total number of moves made is displayed, providing insight into the search algorithm's efficiency. ![Movement Counter](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Python-8puzzleSolver/Python-Output/2.%20Movement%20Counter.JPG)
+- **Movement Counter**: Upon solving the puzzle, the total number of moves made is displayed, providing insight into the search algorithm's efficiency.
+- - ![Movement Counter](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Python-8puzzleSolver/Python-Output/2.%20Movement%20Counter.JPG)
 
 ### Usage
 Define the initial puzzle state in a 3x3 matrix within the Python script, using an underscore (_) to represent the blank tile. The script outputs each action taken to solve the puzzle and concludes with the solved state and move count. ![Initial State](https://github.com/AlonsoSOscarI/Portfolio/blob/main/Python-8puzzleSolver/Python-Output/1.%20Initial%20State.JPG)
